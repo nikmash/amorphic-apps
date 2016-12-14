@@ -1,0 +1,22 @@
+{
+  "name": "amorphic-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikmash/amorphic-apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikmash/amorphic-apps/issues"
+  },
+  "homepage": "https://github.com/nikmash/amorphic-apps#readme",
+  "dependencies": {
+    "amorphic": "^1.4.19"
+  }
+}
